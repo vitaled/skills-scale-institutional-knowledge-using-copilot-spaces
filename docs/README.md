@@ -32,11 +32,12 @@ OctoAcme uses a lightweight, repeatable lifecycle for cross-functional delivery:
    Output: prioritized improvement actions tracked to completion.
 
 7. **Roles & Personas**  
-   Clarify responsibilities and collaboration patterns across Developers, Product Managers, and Project Managers.  
+   Clarify responsibilities and collaboration patterns across all team roles, including QA, UX, DevOps, Tech Lead, and Executive Sponsor.  
    Output: shared accountability, clearer handoffs, and better decision-making.
 
 ## Documentation Index
 
+### Core Lifecycle Guides
 - [OctoAcme Project Management Overview](./octoacme-project-management-overview.md)
 - [OctoAcme — Project Initiation Guide](./octoacme-project-initiation.md)
 - [OctoAcme — Project Planning](./octoacme-project-planning.md)
@@ -46,9 +47,15 @@ OctoAcme uses a lightweight, repeatable lifecycle for cross-functional delivery:
 - [OctoAcme — Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [OctoAcme Personas](./octoacme-roles-and-personas.md)
 
+### Templates & Checklists
+- [OctoAcme — Sprint Review & Demo Checklist](./octoacme-sprint-review-checklist.md)
+- [OctoAcme — New Team Member Onboarding Checklist](./octoacme-onboarding-checklist.md)
+- [OctoAcme — Risk Scoring Guide](./octoacme-risk-scoring-guide.md)
+
 ## How to Use
 
 - Start with the **Project Management Overview** for the big picture.
 - Follow lifecycle docs in order when starting and running projects.
 - Use the personas doc to align role-specific responsibilities and expectations.
+- Use the templates and checklists to run consistent, repeatable processes.
 - Keep documentation current by opening issues with the **Add Content to Project Management Process Docs** template.
